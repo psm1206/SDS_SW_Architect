@@ -1,2 +1,2 @@
-# SDS_SW_Architecture
+# SDS_SW_Architect
 Lyrics text data
